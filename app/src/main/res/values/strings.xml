@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="previous">Previous</string>
+    <string name="Next">Next</string>
+    <string name="dog_title">No Matter How You Feel, A Little Dog Gonna Love You </string>
+    <string name="dog_owner">Ibinabo Queen</string>
+    <string name="year">(2019)</string>
+    <string name="art_title1">The Principle Of True Art Is Not To Portray, But To Evoke. </string>
+    <string name="art_owner1">Daniel Scott</string>
+    <string name="year2">(2022)</string>
+    <string name="art_title2">Art Is Not What You See, But What You Make Others See. </string>
+    <string name="art_owner2">Edgar Degas</string>
+    <string name="year3">(2016)</string>
+    <string name="EndSars_title">We Know The Hypocrites Amongst Us...It Is Either You Ṣòro Sókè or Stay Mute </string>
+    <string name="bold_youth">Olawale Adebayo</string>
+    <string name="year4">(2020)</string>
+
+</resources>
